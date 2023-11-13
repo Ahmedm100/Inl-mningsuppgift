@@ -10,7 +10,7 @@ h1 {
 }
 
 form {
-    margin: 100px
+    margin: 100px;
     max-width: 300px;
     padding: 10px;
     border: 1px solid #333;
@@ -37,7 +37,7 @@ button {
 #search-program {
     padding: 10px;
     display: flex;
-    margin-left: 145px;
+    margin-left: 165px;
     background-color: darkolivegreen;
 }
 
