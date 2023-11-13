@@ -2,7 +2,8 @@ body {
     background-color: black;
     font-family: Arial, sans-serif;
     text-align: center;
-    background-image: url(lion-roar-colorful-digital-art-animal-hd-wallpaper-uhdpaper.com-614@1@k.jpg);
+    background-image: url(jonathan-velasquez-c1ZN57GfDB0-unsplash.jpg);
+    background-position: 100%;
 }
 
 h1 {
@@ -11,9 +12,7 @@ h1 {
 
 form {
     margin: 100px;
-    max-width: 300px;
     padding: 10px;
-    border: 1px solid #333;
 }
 
 form label,
@@ -23,7 +22,7 @@ form textarea {
     margin: auto;
     width: 277px;
     color: red;
-    padding: 5px;
+    padding: 10px;
 }
 
 button {
@@ -36,9 +35,8 @@ button {
 
 #search-program {
     padding: 10px;
-    display: flex;
-    margin-left: 165px;
     background-color: darkolivegreen;
+    width: 50%;
 }
 
 ul {
@@ -47,10 +45,9 @@ ul {
 }
 
 li {
-    border: 1px solid #ccc;
-    margin: 10px;
-    margin-right: 200px;
+    border: 1px solid rgb(204, 204, 204);
     padding: 10px;
     background-color: wheat;
-    width: 500px;
+    width: 51%;
+    margin-left: 24%;
 }
